@@ -1,6 +1,6 @@
 ---
 title: "CobbDouglas"
-author: "Dr. J"
+author: "navjinder"
 date: "4/24/2020"
 output: html_document
 ---
